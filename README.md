@@ -11,4 +11,6 @@ This project is for milling oder lasercutting a schachtel which can hold a prede
 
 ## before lasercutting/milling everything
 
-This project is unfinished and you have to change the code in `schachtel_output.dxf` a bit. We used dxf2gcode to generate gcode afterwards.
+This project is unfinished and only gives you three dxf-files which you have to merge yourself. You can use qcad for example: https://github.com/qcad/qcad.
+
+We used dxf2gcode to generate gcode afterwards.

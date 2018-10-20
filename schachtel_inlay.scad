@@ -38,6 +38,7 @@ module schachtel_einlage(thickness=1,
 }
 
 projection(cut=false)
+translate([0,size[0]*2+size[1]*3+5*0.5*thickness,0])
 schachtel_einlage(thickness=thickness, 
                   bottle_diameter=bottle_diameter, bottle_margin=bottle_margin,
                   bottle_grid=bottle_grid, frame_margin=frame_margin);
