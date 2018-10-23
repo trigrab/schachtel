@@ -1,3 +1,6 @@
 *scad_2d*
 *.dxf
 lasercut/
+*.ngc
+*.d2g
+*.gcode
